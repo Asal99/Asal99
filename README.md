@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Asal Poudel</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-![Futuristic Workspace] (img.jpg)
+![Futuristic Workspace] (https://github.com/Asal99/Asal99/blob/049e9f55ada0e006f3b1fbcc6628468c3543ec27/img.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asal99&label=Profile%20views&color=0e75b6&style=flat" alt="asal99" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
